@@ -4,6 +4,9 @@ public class Soma{
         for(int num = 1;num <= 500;num++) {
             //verificar se o número é ímpar
             if ((num % 2) !=0)
+            // verificar se o número é múltiplo de 3
+                if ((num % 3) ==0)
+
             System.out.println(num);
         }
     }
