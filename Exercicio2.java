@@ -8,7 +8,7 @@ public class Exercicio2 {
                 if(vetor[i] < menorvalor){
                     menorvalor = vetor[i];   
                 }
-                if(vetor[i] < maiorvalor){
+                if(vetor[i] > maiorvalor){
                     maiorvalor = vetor[i];
                 }
 
